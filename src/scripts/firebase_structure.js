@@ -98,7 +98,7 @@ export const usuario = [
             {
                 nome: "Padaria X"
             }
-        ]
+        ],
         email: "",
         nome: "Maria",
         papel: ""
