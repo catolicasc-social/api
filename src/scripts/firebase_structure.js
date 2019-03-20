@@ -80,7 +80,7 @@ export const usuario = [
                                 nome: ""
                             }
                         ]
-                    }
+                    },
                     restaurante: "restaurante x"
                 ]
             }
