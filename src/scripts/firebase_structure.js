@@ -34,7 +34,7 @@ export const produto = [
           }         
       ]
 
-  }
+  },
   minimoEstoque: 0,
   nome: ""  
 ];
