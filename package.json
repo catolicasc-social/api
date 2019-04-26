@@ -3,13 +3,13 @@
     "dotenv": "^7.0.0",
     "esm": "^3.2.22",
     "express": "^4.16.4",
-    "firebase": "^5.9.2",
+    "firebase": "^5.10.0",
     "firebase-admin": "^7.2.0",
     "firebase-functions": "^2.2.1"
   },
   "scripts": {
     "dbCopy": "node ./src/scripts/db-copy.js",
-    "run": "node server"
+    "api": "node server"
   },
   "name": "api",
   "description": "",
