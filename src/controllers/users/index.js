@@ -1,0 +1,1 @@
+exports.delete = require('./delete');
