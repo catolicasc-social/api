@@ -7,7 +7,7 @@ module.exports = () => {
     router.get('/', controller.list);
     router.get('/:id', controller.get);
     router.delete('/:id', controller.delete);
-
+    router.put('/:id', controller.update);
 
     return router;
 };
